@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PLCWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98546a5390a66dd58a31daf0bf043cf0e45ad2f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cda53074688d015cd76ee32bd073076db13b03c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PLCWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PLCWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

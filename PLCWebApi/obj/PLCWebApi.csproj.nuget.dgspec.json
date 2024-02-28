@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dev\\PLCWebApp\\PLCWebApi\\PLCWebApi.csproj": {}
+    "E:\\dev\\PLCWebApp\\PLCWebApp\\PLCWebApi\\PLCWebApi.csproj": {}
   },
   "projects": {
-    "E:\\dev\\PLCWebApp\\PLCWebApi\\PLCWebApi.csproj": {
+    "E:\\dev\\PLCWebApp\\PLCWebApp\\PLCWebApi\\PLCWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dev\\PLCWebApp\\PLCWebApi\\PLCWebApi.csproj",
+        "projectUniqueName": "E:\\dev\\PLCWebApp\\PLCWebApp\\PLCWebApi\\PLCWebApi.csproj",
         "projectName": "PLCWebApi",
-        "projectPath": "E:\\dev\\PLCWebApp\\PLCWebApi\\PLCWebApi.csproj",
+        "projectPath": "E:\\dev\\PLCWebApp\\PLCWebApp\\PLCWebApi\\PLCWebApi.csproj",
         "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-        "outputPath": "E:\\dev\\PLCWebApp\\PLCWebApi\\obj\\",
+        "outputPath": "E:\\dev\\PLCWebApp\\PLCWebApp\\PLCWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "E:\\dev\\PLCWebApp\\PLCWebApi\\NuGet.Config",
+          "E:\\dev\\PLCWebApp\\PLCWebApp\\PLCWebApi\\NuGet.Config",
           "e:\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [

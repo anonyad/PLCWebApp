@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wv+VBF3TmbNziPn0DUKWbe3fWezWm0J0myGNLZNVgI5tGTfxaLxvoAPVqM9CNXjJUGLA9l4UqR7Dx4EuluK0qg==",
+  "dgSpecHash": "YT87O4O1PVtZXwLCS2j5z3kbfFTEZzPzJ4J6Y0NHG6G+bslM8MCI/sneUn7MrL+3vGrYpV+wo2tGSGUD7BJ+tg==",
   "success": true,
-  "projectFilePath": "E:\\dev\\PLCWebApp\\PLCWebApi\\PLCWebApi.csproj",
+  "projectFilePath": "E:\\dev\\PLCWebApp\\PLCWebApp\\PLCWebApi\\PLCWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adam\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Adam\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
