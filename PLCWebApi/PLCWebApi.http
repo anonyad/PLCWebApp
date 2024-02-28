@@ -1,0 +1,6 @@
+@PLCWebApi_HostAddress = http://localhost:5132
+
+GET {{PLCWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
